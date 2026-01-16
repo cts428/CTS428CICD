@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApplicationSagar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+882dcae93b3fa14fda346cb6266ecead0e44bebe")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApplicationSagar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApplicationSagar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
